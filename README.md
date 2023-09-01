@@ -2,7 +2,7 @@
   <img src="https://gifmaker.me/files/download/home/20230730/20/F69Hkd09HFoWKKBo7rXspE/gitbanner.png">
 </p>
 <h1 align="center">
-        Hi, I'm Zaheer
+        Hi, I'm Ameen
  <a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
  </a>
