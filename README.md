@@ -23,7 +23,7 @@
 # 💫 About Me:
 
 <h5>💻 I'm currently an ML Engineer Intern at Packapeer Academy Ltd  in India.<br>🧬 Working on a ML | NLP project that involves various tasks.<br>🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between<br>🌱 Learning about MLOp's , LLM's and advanced NLP & DL  stuff.<br>
-📬 How to reach me: <a href="mailto:zaheer.work24@gmail.com">zaheer.work24@gmail.com</a></h5>
+📬 How to reach me: <a href="mailto:ameensalaam9@gmail.com">zaheer.work24@gmail.com</a></h5>
 
 <hr  class='mt-5'style="height: 5px; border: none; background-color: black;">
 
