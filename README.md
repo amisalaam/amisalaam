@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **full-stack developer** specializing in **Django** and **React**, currently working on innovative projects at **WadeFintech**. I thrive on creating solutions that make a difference and am driven by a strong entrepreneurial spirit. Currently, I'm dedicated to enhancing the [Billifi](https://www.billifi.in/) project, aimed at revolutionizing billing processes for businesses.
+I'm a passionate **full-stack developer** specializing in **Django** and **React**, currently working on innovative projects at **WadeFintech**. I thrive on creating solutions that make a difference and am driven by a strong entrepreneurial spirit. Currently, I'm dedicated to enhancing the [Billifi](https://www.billifi.in) project, aimed at revolutionizing billing processes for businesses.
 
 ## 🛠️ My Skill Set
 
@@ -15,7 +15,7 @@ I'm a passionate **full-stack developer** specializing in **Django** and **React
 
 ## 🌟 Featured Projects
 
-### [Billifi](https://www.billifi.in/)
+### [Billifi](https://www.billifi.in)
 A platform for streamlining and automating billing processes for businesses.
 
 ### Project Name
