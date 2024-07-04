@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammed Ameen! 👋
+# Hi there, I'm Ameen Salaam 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amisalaam&color=blue)
 
