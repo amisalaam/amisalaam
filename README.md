@@ -31,12 +31,7 @@ A brief description of another project you want to highlight.
 - [LinkedIn](https://www.linkedin.com/in/ameen-salaam-31567b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: ameensalaam9@gmail.com
 
-## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](https://your-blog-link.com)
-- [Post Title](https://your-blog-link.com)
-- [Post Title](https://your-blog-link.com)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Profile Visits
