@@ -30,6 +30,10 @@ A brief description of another project you want to highlight.
 
 [![Ameen's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=amisalaam&theme=react-dark)](https://github.com/amisalaam)
 
+## 📈 Commit Graph
+
+![Ameen's GitHub Commit Graph](https://streak-stats.demolab.com?user=amisalaam&theme=highcontrast)
+
 ## 💬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ameen-salaam-31567b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
