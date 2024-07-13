@@ -26,10 +26,6 @@ A brief description of another project you want to highlight.
 ![Muhammed Ameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=amisalaam&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amisalaam&layout=compact&theme=radical)
 
-## 📈 Contribution Graph
-
-[![Ameen's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=amisalaam&theme=react-dark)](https://github.com/amisalaam)
-
 ## 📈 Commit Graph
 
 ![Ameen's GitHub Commit Graph](https://streak-stats.demolab.com?user=amisalaam&theme=highcontrast)
