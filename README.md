@@ -16,7 +16,7 @@ I'm a passionate **full-stack developer** specializing in **Django** and **React
 ## 🌟 Featured Projects
 
 ### [Billifi](https://www.billifi.in)
-A platform for streamlining and automating billing processes for businesses.
+A platform for streamlining and automating billing processes for businesses
 
 
 
