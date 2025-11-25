@@ -1,375 +1,486 @@
 <div align="center">
 
-# Hi, I'm Ameen Salaam 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ameen%20Salaam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Senior+Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+Django+%7C+FastAPI+%7C+React+%7C+Next.js+⚡;Founder+%40+ThinkVerse.co.in+🌟;Crafting+Scalable+Digital+Solutions+💻" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Senior+Full-Stack+Developer+%F0%9F%9A%80;Founder+%40+ThinkVerse.co.in+%F0%9F%8C%9F;Python+%E2%9A%A1+Django+%E2%9A%A1+FastAPI+%E2%9A%A1+React+%E2%9A%A1+Next.js;Turning+Ideas+Into+Scalable+Digital+Solutions+%F0%9F%92%BB" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=120&section=header&text=&fontSize=16"/>
+<p align="center">
+  <a href="https://thinkverse.co.in"><img src="https://img.shields.io/badge/🌐_ThinkVerse-FF6B35?style=for-the-badge&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/ameen-salaam-31567b248"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ameensalaam9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/amisalaam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amisalaam&color=00D9FF&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/amisalaam?logo=GitHub&style=for-the-badge&color=00D9FF)](https://github.com/amisalaam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ameen-salaam-31567b248)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amisalaam&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/amisalaam?label=Followers&style=flat-square&color=00D9FF&logo=github" alt="followers"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00D9FF?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Lives-Kerala%2C%20India-success?style=flat-square&logo=googlemaps" alt="location"/>
+</p>
 
 </div>
 
----
+<br/>
 
-## 💼 Professional Journey
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-### 🚀 Current Role
-**Founder & Lead Developer**  
-**ThinkVerse.co.in** | *Present*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Building modern web applications and scalable digital solutions for businesses worldwide.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" alt="Developer Icon"> About Me
 
-</td>
-<td width="50%">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 📊 Experience Highlights
-- 🏢 **4+ Companies** | Senior Developer
-- 💼 **ThinkVerse.co.in** - Founder
-- 🏦 **WadeFintech** - Billifi Project
-- ⚡ **Hoztox Technologies** - Senior Dev
-- 🎯 **Xenon (Keerthi Triumph)** - Senior Dev
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 About Me
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img align="left" alt="Developer" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-**Senior Full-Stack Developer** with a proven track record of delivering enterprise-grade applications. Specialized in building scalable backend systems and modern frontend experiences.
-
-- 🎯 **Currently**: Leading development at **ThinkVerse.co.in**
-- 🌱 **Mastering**: Advanced FastAPI patterns, Next.js 14, and cloud architecture
-- 🏆 **Expertise**: Python, Django, FastAPI, React, Next.js, TypeScript
-- 💡 **Passion**: Architecting scalable solutions and mentoring developers
-- 👨‍💻 **Portfolio**: [GitHub](https://github.com/amisalaam) | [ThinkVerse](https://thinkverse.co.in)
-- 📫 **Contact**: ameensalaam9@gmail.com
-- ⚡ **Fun fact**: I turn coffee into code and bugs into features ☕✨
+```typescript
+const ameen = {
+    title: "Senior Full-Stack Developer",
+    company: "ThinkVerse.co.in",
+    role: "Founder & Lead Developer",
+    location: "Kerala,India",
+    
+    experience: {
+        total_years: "4+",
+        companies: ["ThinkVerse", "WadeFintech", 
+                   "Hoztox Technologies", "Xenon"],
+        expertise: "Enterprise Applications"
+    },
+    
+    current_mission: [
+        "🚀 Building ThinkVerse into a tech powerhouse",
+        "⚡ Architecting scalable cloud solutions",
+        "💡 Mentoring next-gen developers",
+        "🌟 Delivering excellence in every line of code"
+    ],
+    
+    life_philosophy: "Code is poetry, architecture is art"
+};
+```
 
 <br clear="both"/>
 
----
+### 🎯 Quick Facts
+
+- 🏢 **Founder** of [ThinkVerse.co.in](https://thinkverse.co.in) - Crafting Digital Excellence
+- 💼 **Senior Developer** at 4+ leading tech companies
+- 🎓 **Expertise**: Full-Stack Development, System Architecture, Cloud Solutions
+- 🌱 **Currently Mastering**: Advanced FastAPI Patterns, Next.js 14, AWS Architecture
+- 💬 **Ask Me About**: Python, Django, FastAPI, React, Next.js, System Design
+- ⚡ **Fun Fact**: I debug production issues at 3 AM and still love what I do!
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏢 Professional Experience
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Professional Journey
 
 <div align="center">
 
-### 🌟 ThinkVerse.co.in | Founder & Lead Developer
-*Building the Future of Digital Solutions*
-
-[![Website](https://img.shields.io/badge/🌐_Visit_ThinkVerse-FF6B35?style=for-the-badge)](https://thinkverse.co.in)
-
-</div>
-
 <table>
 <tr>
-<td width="33%" valign="top">
-
-#### 💼 Hoztox Technologies
-**Senior Developer**
-
-Enterprise service solutions development, delivering high-performance applications for diverse clients.
-
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
+<h3>ThinkVerse.co.in</h3>
+<p><b>Founder & Lead Developer</b></p>
+<p><i>Present</i></p>
+<p>🚀 Building innovative solutions</p>
+<p>🌟 Leading talented teams</p>
 </td>
-<td width="33%" valign="top">
 
-#### 🏦 WadeFintech
-**Senior Developer**
-
-Led development of **Billifi** - A comprehensive business billing platform serving multiple enterprises.
-
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/bank-building.png" width="60"/>
+<h3>WadeFintech</h3>
+<p><b>Senior Developer</b></p>
+<p><i>Billifi Platform</i></p>
+<p>💰 Enterprise billing system</p>
+<p>📊 Serving 100+ businesses</p>
 </td>
-<td width="33%" valign="top">
 
-#### ⚡ Xenon (Keerthi Triumph)
-**Senior Developer**
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
+<h3>Hoztox Technologies</h3>
+<p><b>Senior Developer</b></p>
+<p><i>Service Company</i></p>
+<p>⚡ Enterprise solutions</p>
+<p>🎯 Client-focused delivery</p>
+</td>
 
-Architected scalable solutions and mentored junior developers in modern development practices.
-
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/developer.png" width="60"/>
+<h3>Xenon (Keerthi Triumph)</h3>
+<p><b>Senior Developer</b></p>
+<p><i>Tech Solutions</i></p>
+<p>🏗️ Scalable architecture</p>
+<p>👥 Team mentorship</p>
 </td>
 </tr>
 </table>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-
-### 🎯 Backend Technologies
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ⚛️ Frontend Technologies
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ Databases & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔧 Development Tools
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Languages & Core Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,postgres,mysql,mongodb,redis&theme=dark" />
+</p>
+
+### 🎨 Backend Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+</p>
+
+### ⚛️ Frontend Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+</p>
+
+### 🛠️ DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### 📊 Specialized Skills
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/api-settings.png" width="50"/>
+<h4>API Development</h4>
+<p>RESTful APIs • GraphQL<br/>Microservices • WebSockets</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/cloud.png" width="50"/>
+<h4>Cloud & DevOps</h4>
+<p>AWS • Docker • CI/CD<br/>Kubernetes • Infrastructure</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/database.png" width="50"/>
+<h4>Database Design</h4>
+<p>PostgreSQL • MySQL • MongoDB<br/>Query Optimization • Scaling</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Featured Projects
 
 <div align="center">
 
-### 🧾 Billifi - Enterprise Billing Platform
-**WadeFintech** | *Production*
-
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Platform-FF6B35?style=for-the-badge)](https://www.billifi.in)
-
-**Role**: Senior Full-Stack Developer  
-**Impact**: Streamlined billing processes for 100+ businesses  
-**Tech**: Django REST Framework, React.js, PostgreSQL, AWS, Docker
-
----
-
-### 💼 Enterprise Solutions Portfolio
-**Multiple Organizations** | *Various Productions*
-
-Building scalable web applications, microservices architectures, and cloud-native solutions across different industries.
-
-**Key Achievements**:
-- ⚡ Reduced API response time by 60% through optimization
-- 🚀 Architected microservices handling 10k+ requests/day
-- 📊 Implemented real-time analytics dashboards
-- 🔒 Enhanced security protocols across applications
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amisalaam&show_icons=true&count_private=true&theme=react&border_radius=10" alt="readme stats" />
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=amisalaam&theme=react&border_radius=10" alt="streak stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisalaam&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="most used languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amisalaam&custom_title=Ameen's%20GitHub%20Activity%20Graph&bg_color=20232a&color=61dafb&line=61dafb&point=61dafb&area_color=FFFFFF&title_color=61dafb&area=true" />
-
-</div>
-
----
-
-## 🏃‍♂️ Coding Journey
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amisalaam&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amisalaam&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amisalaam&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amisalaam&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amisalaam&theme=github_dark"/>
-
-</div>
-
----
-
-## 🎯 Development Philosophy
-
-<div align="center">
-
-```python
-class SeniorDeveloper:
-    def __init__(self):
-        self.name = "Ameen Salaam"
-        self.role = "Senior Full Stack Developer & Founder"
-        self.company = "ThinkVerse.co.in"
-        self.experience = {
-            "current": "ThinkVerse.co.in - Founder & Lead Developer",
-            "previous": [
-                "WadeFintech - Senior Developer (Billifi)",
-                "Hoztox Technologies - Senior Developer",
-                "Xenon (Keerthi Triumph) - Senior Developer"
-            ]
-        }
-        self.languages = ["Python", "JavaScript", "TypeScript"]
-        self.backend = ["Django", "FastAPI", "Django REST Framework"]
-        self.frontend = ["React", "Next.js", "Redux", "TailwindCSS"]
-        self.databases = ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
-        self.devops = ["Docker", "AWS", "Nginx", "Linux"]
-        self.architecture = ["Microservices", "RESTful APIs", "Event-Driven"]
-        
-    def current_focus(self):
-        return [
-            "🚀 Scaling ThinkVerse.co.in",
-            "⚡ Advanced FastAPI & Next.js patterns",
-            "☁️ Cloud-native architecture",
-            "🎓 Mentoring junior developers"
-        ]
-    
-    def work_philosophy(self):
-        return "Clean code, scalable architecture, continuous learning"
-   
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something extraordinary together! 🚀")
-
-me = SeniorDeveloper()
-me.say_hi()
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Currently coding:** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-</div>
-
----
-
-## 💡 What I Bring to the Table
-
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🏗️ Architecture
-- Microservices Design
-- RESTful API Development
-- Database Optimization
-- Cloud Infrastructure
-- Scalable Solutions
+### 🧾 Billifi - Enterprise Billing Platform
+[![Live](https://img.shields.io/badge/🌐_LIVE_DEMO-00D9FF?style=for-the-badge)](https://www.billifi.in)
+
+<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="400" alt="Project Demo"/>
+
+**Tech Stack:**
+- Django REST Framework
+- React.js & Redux
+- PostgreSQL & Redis
+- AWS & Docker
+
+**Impact:**
+- ⚡ Serving 100+ businesses
+- 📊 Processing 10k+ transactions/day
+- 🚀 60% faster billing operations
+- 💰 Reduced operational costs by 40%
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 💻 Development
-- Full-Stack Development
-- Code Review & Mentoring
-- Agile Methodologies
-- CI/CD Implementation
-- Performance Optimization
+### 🌟 ThinkVerse Solutions
+[![Website](https://img.shields.io/badge/🚀_VISIT_SITE-FF6B35?style=for-the-badge)](https://thinkverse.co.in)
 
-</td>
-<td width="33%" valign="top">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400" alt="Development"/>
 
-### 🚀 Leadership
-- Technical Decision Making
-- Team Collaboration
-- Project Planning
-- Startup Experience
-- Client Communication
+**Services:**
+- Custom Web Applications
+- API Development & Integration
+- Cloud Solutions & DevOps
+- Technical Consulting
+
+**Highlights:**
+- 🎯 Multiple client projects delivered
+- 🏗️ Scalable architecture designs
+- ⚡ High-performance applications
+- 🔒 Security-first approach
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 🌟 Connect & Collaborate
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Statistics
 
 <div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amisalaam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amisalaam&theme=tokyonight&hide_border=true" />
 
-<a href="https://www.linkedin.com/in/ameen-salaam-31567b248">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ameensalaam9@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://thinkverse.co.in">
-<img src="https://img.shields.io/badge/ThinkVerse-FF6B35?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="https://github.com/amisalaam">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-### 💼 Open for:
-
-**🤝 Collaborations** • **💻 Freelance Projects** • **🏢 Full-time Opportunities** • **🎯 Technical Consulting** • **🎓 Mentorship**
-
-### 🎯 Services Offered via ThinkVerse:
-
-✨ Custom Web Application Development  
-⚡ API Development & Integration  
-🏗️ System Architecture Design  
-☁️ Cloud Migration & DevOps  
-📊 Database Design & Optimization  
-🔒 Security Audits & Implementation
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisalaam&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=amisalaam&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
----
+<div align="center">
+<details>
+<summary><b>📈 Detailed Contribution Graph</b></summary>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amisalaam&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amisalaam&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amisalaam&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amisalaam&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amisalaam&theme=tokyonight"/>
+
+</details>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 What Sets Me Apart
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=120&section=footer"/>
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
+<h3>🏗️ Architecture Excellence</h3>
+<p align="left">
+✅ Microservices & System Design<br/>
+✅ Scalable Cloud Infrastructure<br/>
+✅ Database Optimization<br/>
+✅ API Design Best Practices<br/>
+✅ Security Implementation
+</p>
+</td>
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+<h3>💻 Development Mastery</h3>
+<p align="left">
+✅ Full-Stack Development<br/>
+✅ Clean Code Principles<br/>
+✅ Agile Methodologies<br/>
+✅ Test-Driven Development<br/>
+✅ CI/CD Implementation
+</p>
+</td>
 
-### 🚀 *"First, solve the problem. Then, write the code."* - John Johnson
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<h3>🚀 Leadership Skills</h3>
+<p align="left">
+✅ Technical Decision Making<br/>
+✅ Team Mentorship<br/>
+✅ Project Management<br/>
+✅ Client Communication<br/>
+✅ Startup Experience
+</p>
+</td>
+</tr>
+</table>
 
-**Thanks for visiting! Let's build the future together! 💻✨**
+</div>
 
-![Visitor Count](https://profile-counter.glitch.me/amisalaam/count.svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**⭐️ From [Ameen Salaam](https://github.com/amisalaam) - Founder of ThinkVerse.co.in**
+## 🎯 Services I Offer
 
-*Senior Full-Stack Developer | Python • Django • FastAPI • React • Next.js*
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌟 For Businesses
+
+```yaml
+Custom Web Applications:
+  - E-commerce Platforms
+  - SaaS Solutions
+  - Enterprise Dashboards
+  - Business Management Systems
+
+API Development:
+  - RESTful APIs
+  - GraphQL Services
+  - Third-party Integrations
+  - Microservices Architecture
+
+Cloud Solutions:
+  - AWS Deployment
+  - Docker Containerization
+  - CI/CD Pipelines
+  - Infrastructure Setup
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 For Startups
+
+```yaml
+MVP Development:
+  - Rapid Prototyping
+  - Full-Stack Solutions
+  - Scalable Architecture
+  - Launch Support
+
+Technical Consulting:
+  - Architecture Review
+  - Code Audits
+  - Performance Optimization
+  - Security Assessment
+
+Team Support:
+  - Developer Mentorship
+  - Best Practices Training
+  - Code Review
+  - Technical Leadership
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📞 Let's Build Something Amazing Together!
+
+<a href="https://thinkverse.co.in">
+<img src="https://img.shields.io/badge/📧_GET_A_QUOTE-FF6B35?style=for-the-badge&logoColor=white" alt="Get Quote"/>
+</a>
+<a href="https://calendly.com/ameensalaam9">
+<img src="https://img.shields.io/badge/📅_SCHEDULE_CALL-00D9FF?style=for-the-badge&logoColor=white" alt="Schedule Call"/>
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/in/ameen-salaam-31567b248">
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60"/>
+<br/><b>LinkedIn</b>
+<br/>Professional Network
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="mailto:ameensalaam9@gmail.com">
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60"/>
+<br/><b>Email</b>
+<br/>ameensalaam9@gmail.com
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://thinkverse.co.in">
+<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60"/>
+<br/><b>Website</b>
+<br/>thinkverse.co.in
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💬 Open For
+
+<p>
+<img src="https://img.shields.io/badge/💼_Full--time_Opportunities-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤝_Collaborations-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💻_Freelance_Projects-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯_Technical_Consulting-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎓_Mentorship-purple?style=for-the-badge" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 🎵 Coding Anthem
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k64q2qqzzlxd5njssmj6rf6eyu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%"/>
+
+### 🚀 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<br/>
+
+**Thanks for visiting! Let's connect and build something extraordinary! 💻✨**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<br/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amisalaam.amisalaam)
+![Last Updated](https://img.shields.io/github/last-commit/amisalaam/amisalaam?label=Last%20Updated&style=flat-square&color=00D9FF)
+
+<br/>
+
+**⭐️ From [Ameen Salaam](https://github.com/amisalaam) | Founder @ [ThinkVerse.co.in](https://thinkverse.co.in) | Senior Full-Stack Developer**
+
+*Crafting Digital Excellence, One Line at a Time* 💙
 
 </div>
