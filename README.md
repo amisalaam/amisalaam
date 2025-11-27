@@ -31,7 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amisalaam&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/amisalaam?label=Followers&style=flat-square&color=00D9FF&logo=github" alt="followers"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00D9FF?style=flat-square" alt="focus"/>
   <img src="https://img.shields.io/badge/Lives-Kerala%2C%20India-success?style=flat-square&logo=googlemaps" alt="location"/>
@@ -128,7 +127,7 @@ const ameen = {
 
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/developer.png" width="60"/>
-<h3>Xenon (Keerthi Triumph)</h3>
+<h3>Xenon</h3>
 <p><b>Senior Developer</b></p>
 <p><i>Tech Solutions</i></p>
 <p>🏗️ Scalable architecture</p>
@@ -493,7 +492,6 @@ Team Support:
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amisalaam.amisalaam)
 ![Last Updated](https://img.shields.io/github/last-commit/amisalaam/amisalaam?label=Last%20Updated&style=flat-square&color=00D9FF)
 
 <br/>
