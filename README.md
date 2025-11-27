@@ -1,8 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ameen%20Salaam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   █████╗ ███╗   ███╗███████╗███████╗███╗   ██╗              ║
+║  ██╔══██╗████╗ ████║██╔════╝██╔════╝████╗  ██║              ║
+║  ███████║██╔████╔██║█████╗  █████╗  ██╔██╗ ██║              ║
+║  ██╔══██║██║╚██╔╝██║██╔══╝  ██╔══╝  ██║╚██╗██║              ║
+║  ██║  ██║██║ ╚═╝ ██║███████╗███████╗██║ ╚████║              ║
+║  ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝              ║
+║                                                               ║
+║  ███████╗ █████╗ ██╗      █████╗  █████╗ ███╗   ███╗        ║
+║  ██╔════╝██╔══██╗██║     ██╔══██╗██╔══██╗████╗ ████║        ║
+║  ███████╗███████║██║     ███████║███████║██╔████╔██║        ║
+║  ╚════██║██╔══██║██║     ██╔══██║██╔══██║██║╚██╔╝██║        ║
+║  ███████║██║  ██║███████╗██║  ██║██║  ██║██║ ╚═╝ ██║        ║
+║  ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝        ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Senior+Full-Stack+Developer+%F0%9F%9A%80;Founder+%40+ThinkVerse.co.in+%F0%9F%8C%9F;Python+%E2%9A%A1+Django+%E2%9A%A1+FastAPI+%E2%9A%A1+React+%E2%9A%A1+Next.js;Turning+Ideas+Into+Scalable+Digital+Solutions+%F0%9F%92%BB" alt="Typing SVG" />
+> Senior Full-Stack Developer | Founder @ ThinkVerse.co.in
+> Python ⚡ Django ⚡ FastAPI ⚡ React ⚡ Next.js
+```
 
 <p align="center">
   <a href="https://thinkverse.co.in"><img src="https://img.shields.io/badge/🌐_ThinkVerse-FF6B35?style=for-the-badge&logoColor=white" alt="Website"/></a>
